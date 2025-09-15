@@ -20,10 +20,11 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 
 
 ### In Game
-![Gameplay Screenshot](snapshots/gameplay.png)
+![Gameplay Screenshot]<img width="1455" height="855" alt="Game2" src="https://github.com/user-attachments/assets/b3b67172-b566-4d0f-bce2-3a1710309332" />
+
 
 ### Winner Popup
-![Winner Screenshot](snapshots/winner.png)
+![Winner Screenshot]<img width="1436" height="848" alt="Game3" src="https://github.com/user-attachments/assets/9c586171-34e1-4e0c-9bca-87f593f1ec3e" />
 
 ---
 
@@ -43,4 +44,4 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 ---
 
 ## 🌐 Live Demo
-👉 [Play Here](https://your-username.github.io/Tic-Tac-Toe-Game/)  
+👉 [Play Here](https://vishalchaudhari27.github.io/Tic-Tac-Toe-Game/)  
