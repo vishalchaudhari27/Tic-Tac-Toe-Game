@@ -42,6 +42,3 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 4. Use the **Reset button** to play again  
 
 ---
-
-## 🌐 Live Demo
-👉 [Play Here](https://vishalchaudhari27.github.io/Tic-Tac-Toe-Game/)  
