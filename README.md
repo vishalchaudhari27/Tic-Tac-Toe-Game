@@ -16,7 +16,8 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 ## 📸 Screenshots
 
 ### Game Start
-![Start Screenshot](snapshots/start.png)
+![Start Screenshot]<img width="1492" height="843" alt="Game1" src="https://github.com/user-attachments/assets/53a926fc-2d9e-4dcf-9cdc-7fb21b9bdbf8" />
+
 
 ### In Game
 ![Gameplay Screenshot](snapshots/gameplay.png)
