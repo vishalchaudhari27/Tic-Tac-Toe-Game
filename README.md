@@ -26,7 +26,7 @@ img width="1455" height="855" alt="Game2" src="https://github.com/user-attachmen
 
 
 ### Rest Game
-img width="1492" height="843" alt="Game1" src="https://github.com/user-attachments/assets/052d09db-8166-49a6-993d-fc1a5cf9658c" />
+<img width="1492" height="843" alt="Game1" src="https://github.com/user-attachments/assets/052d09db-8166-49a6-993d-fc1a5cf9658c" />
 
 ---
 
