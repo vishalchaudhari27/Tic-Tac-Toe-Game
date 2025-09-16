@@ -1,7 +1,7 @@
 # 🎮 Tic Tac Toe Game
 
 A fun and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
-Play with your friends, enjoy winning popup messages, and reset anytime! ✨  
+Play with your friends, enjoy winning animations, and reset anytime! ✨  
 
 ---
 
@@ -9,6 +9,7 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 - 🎨 Simple and clean UI  
 - ✖️ Play as **X** or **O**  
 - 🏆 **Winner popup message**  
+- 😐 **Draw popup message**  
 - 🔄 **Reset button** to restart the game anytime  
 
 ---
@@ -16,15 +17,16 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 ## 📸 Screenshots
 
 ### Game Start
-![Start Screenshot]<img width="1492" height="843" alt="Game1" src="https://github.com/user-attachments/assets/53a926fc-2d9e-4dcf-9cdc-7fb21b9bdbf8" />
-
+![Start Screenshot](snapshots/start.png)
 
 ### In Game
-![Gameplay Screenshot]<img width="1455" height="855" alt="Game2" src="https://github.com/user-attachments/assets/b3b67172-b566-4d0f-bce2-3a1710309332" />
-
+![Gameplay Screenshot](snapshots/gameplay.png)
 
 ### Winner Popup
-![Winner Screenshot]<img width="1436" height="848" alt="Game3" src="https://github.com/user-attachments/assets/9c586171-34e1-4e0c-9bca-87f593f1ec3e" />
+![Winner Screenshot](snapshots/winner.png)
+
+### Draw Popup
+![Draw Screenshot](snapshots/draw.png)
 
 ---
 
@@ -39,6 +41,12 @@ Play with your friends, enjoy winning popup messages, and reset anytime! ✨
 1. Open `index.html` in your browser  
 2. Player 1 plays as **X**, Player 2 plays as **O**  
 3. Take turns → First to align 3 symbols **wins** 🏆  
-4. Use the **Reset button** to play again  
+4. If no one wins → Game ends in a **Draw**  
+5. Use the **Reset button** to play again  
+
+---
+
+## 🌐 Live Demo
+👉 [Play Here](https://your-username.github.io/Tic-Tac-Toe-Game/)  
 
 ---
