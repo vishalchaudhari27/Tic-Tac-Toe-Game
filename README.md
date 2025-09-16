@@ -16,10 +16,12 @@ Play with your friends, enjoy winning animations, and reset anytime! ✨
 ## 📸 Screenshots
 
 ### Game Start
-img width="1492" height="843" alt="Game1" src="https://github.com/user-attachments/assets/82ef8c53-b734-459f-a4c9-62af9f7db373" />
+<img width="1492" height="843" alt="Game1" src="https://github.com/user-attachments/assets/82ef8c53-b734-459f-a4c9-62af9f7db373" />
+
 
 ### In Game
-img width="1455" height="855" alt="Game2" src="https://github.com/user-attachments/assets/9db602b8-412e-4d4b-8579-1685e56acfec" />
+<img width="1455" height="855" alt="Game2" src="https://github.com/user-attachments/assets/9db602b8-412e-4d4b-8579-1685e56acfec" />
+
 
 ### Winner Popup
 <img width="1436" height="848" alt="Game3" src="https://github.com/user-attachments/assets/5d3a2255-527f-4673-8220-91f5a77e75c8" />
